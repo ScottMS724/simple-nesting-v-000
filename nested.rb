@@ -80,6 +80,7 @@ def adding_matz
         }
      }
      programmer_hash[:scott_silverman] = "Ruby"
+     programmer_hash
     
 end
 
