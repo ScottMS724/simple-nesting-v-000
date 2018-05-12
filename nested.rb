@@ -79,7 +79,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-     programmer_hash[:scott_silverman] = "Ruby"
+     programmer_hash[:yukihiro_matsumoto] = "Ruby"
      programmer_hash
     
 end
